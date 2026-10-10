@@ -1,4 +1,4 @@
-<img align="right" width="240" src="https://media.giphy.com/media/xUPJPop2o56Sv8p8TS/giphy.gif" alt="SpongeBob checking his watch" />
+<img src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" width="100%" alt="Kermit the Frog typing furiously" />
 
 # Hi, I'm Ahmet 👋
 
@@ -8,8 +8,6 @@ and help partner teams get theirs to the store.
 - ⌚ Smart & lite wearables with ArkTS, ArkUI and HML/CSS/JS
 - 🔌 Wear Engine, Health Service Kit, Location Kit
 - 📱 Before Huawei: Flutter apps for logistics clients, native iOS side projects
-
-<br clear="right" />
 
 ### Tech
 
