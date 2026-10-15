@@ -17,7 +17,7 @@ and help partner teams get theirs to the store.
 
 ### Projects
 
-- **[Portfolio](https://github.com/ahmetkadircicek/portfolio)**: Flutter web compiled to WebAssembly, in English, Turkish and German
+- **[Portfolio](https://github.com/ahmetkadircicek/portfolio)**: Flutter web compiled to WebAssembly
 - **[Vilsa](https://github.com/ahmetkadircicek/vilsa)**: stock portfolio and dividend tracker
 - **[Peasy](https://github.com/ahmetkadircicek/peasy)**: NFC self-checkout app, our graduation project
 
