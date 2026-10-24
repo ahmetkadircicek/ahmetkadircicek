@@ -1,26 +1,73 @@
-<img src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" width="100%" alt="Kermit the Frog typing furiously" />
+<div align="center">
 
-# Hi, I'm Ahmet 👋
+![Ahmet Kadir Çiçek Banner](assets/banner.svg)
 
-Mobile developer at **Huawei Türkiye R&D Center**. I build HarmonyOS watch apps
-and help partner teams get theirs to the store.
+# Hi, I'm Ahmet Kadir Çiçek 👋
 
-- ⌚ Smart & lite wearables with ArkTS, ArkUI and HML/CSS/JS
-- 🔌 Wear Engine, Health Service Kit, Location Kit
-- 📱 Before Huawei: Flutter apps for logistics clients, native iOS side projects
+**Mobile & Wearables Developer at [Huawei Türkiye R&D Center](https://www.huawei.com/)**  
+Crafting apps for HarmonyOS wearables, cross-platform Flutter systems, and native iOS.
 
-### Tech
+[🌐 Website](https://ahmetkadircicek.com.tr) • [💼 LinkedIn](https://www.linkedin.com/in/akadircicek) • [📄 Curriculum Vitae](https://ahmetkadircicek.com.tr/ahmet-kadir-cicek-cv.pdf) • [✉️ Email](mailto:akadircicek@outlook.com)
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,swift,firebase,figma,git" alt="Flutter, Dart, Swift, Firebase, Figma, Git" />
+---
 
-`HarmonyOS` `ArkTS` `ArkUI` `DevEco Studio`
+</div>
 
-### Projects
+## 🚀 About Me
 
-- **[Portfolio](https://github.com/ahmetkadircicek/portfolio)**: Flutter web compiled to WebAssembly
-- **[Vilsa](https://github.com/ahmetkadircicek/vilsa)**: stock portfolio and dividend tracker
-- **[Peasy](https://github.com/ahmetkadircicek/peasy)**: NFC self-checkout app, our graduation project
+- ⌚ **HarmonyOS Wearables**: Building smart & lite wearable apps with **ArkTS**, **ArkUI**, and JS/CSS. Engineering integrations for **Huawei Health Service Kit**, **Wear Engine**, and **Location Kit**.
+- 📱 **Mobile & Cross-Platform**: Experienced with **Flutter & Dart** (WebAssembly, state management with Riverpod & Bloc, Firebase backend).
+- 🍎 **Native iOS**: Crafting modern iOS applications using **Swift**, **SwiftUI**, **Observation**, **SwiftData**, and **CloudKit**.
+- 🛠️ **Developer Tooling**: Creator of **[JSON to ArkTS](https://ahmetkadircicek.github.io/json-to-arkts/)**, a browser-based model generator for the global HarmonyOS ecosystem.
 
-### Find me
+---
 
-[Website](https://ahmetkadircicek.com.tr) · [LinkedIn](https://www.linkedin.com/in/akadircicek) · [CV](https://ahmetkadircicek.com.tr/ahmet-kadir-cicek-cv.pdf)
+## 🛠️ Tech Stack & Tooling
+
+<div align="center">
+
+| Domain | Technologies |
+|---|---|
+| **Wearables & HarmonyOS** | `ArkTS` `ArkUI` `HarmonyOS NEXT` `OpenHarmony` `DevEco Studio` `Health Kit` `Wear Engine` |
+| **Mobile & Cross-Platform** | `Flutter` `Dart` `WebAssembly (Wasm)` `Riverpod` `Bloc` `Provider` `Dio` `GoRouter` |
+| **Native iOS** | `Swift` `SwiftUI` `SwiftData` `Combine` `UIKit` `CloudKit` `XcodeGen` `TestFlight` |
+| **Backend & Cloud** | `Firebase` `Cloud Firestore` `Cloud Storage` `REST APIs` `Stripe` `Cloudflare` |
+| **Design & Tooling** | `Figma` `Git` `GitHub Actions` `Claude / AI-Assisted Dev` `Zsh` |
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,swift,firebase,typescript,js,python,figma,git,github,vscode,apple" alt="Tech Stack Icons" />
+
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+| Project | Description | Stack | Links |
+|---|---|---|---|
+| **[Portfolio](https://github.com/ahmetkadircicek/portfolio)** | Personal website compiled to WebAssembly with bilingual localization and zero-dependency preview rendering. | Flutter · Wasm · Dart · Firebase | [Live Site](https://ahmetkadircicek.com.tr) • [Repo](https://github.com/ahmetkadircicek/portfolio) |
+| **[JSON to ArkTS](https://github.com/ahmetkadircicek/json-to-arkts)** | Free browser-based code generator converting JSON to typed ArkTS classes with `@Observed` / `@ObservedV2` and `fromJson()`. | JavaScript · ArkTS · OpenHarmony | [Web Tool](https://ahmetkadircicek.github.io/json-to-arkts/) • [Repo](https://github.com/ahmetkadircicek/json-to-arkts) |
+| **[Tunes](https://github.com/ahmetkadircicek/tunes)** | AI Song Maker: cross-platform mobile app that generates custom songs, lyrics, and covers using generative AI. | Flutter · Riverpod · Firebase · Replicate | [Case Study](https://ahmetkadircicek.com.tr/projects/tunes) • [Repo](https://github.com/ahmetkadircicek/tunes) |
+| **[Restick](https://github.com/ahmetkadircicek/restick)** | Native iOS app turning any image into WhatsApp stickers at explicit pixel sizes, with CloudKit sync and no watermarks. | Swift · SwiftUI · SwiftData · CloudKit | [Repo](https://github.com/ahmetkadircicek/restick) |
+| **[Vilsa](https://github.com/ahmetkadircicek/vilsa)** | Stock portfolio and dividend tracker with live financials, analytics, and interactive charts. | Flutter · Riverpod · Firebase · REST API | [Case Study](https://ahmetkadircicek.com.tr/projects/vilsa) • [Repo](https://github.com/ahmetkadircicek/vilsa) |
+| **[Peasy](https://github.com/ahmetkadircicek/peasy)** | NFC self-checkout retail app enabling physical product scanning and frictionless mobile payments. | Flutter · NFC Manager · Stripe · Firebase | [Case Study](https://ahmetkadircicek.com.tr/projects/peasy) • [Repo](https://github.com/ahmetkadircicek/peasy) |
+| **[Chalko](https://ahmetkadircicek.com.tr/projects/chalko)** | Turkish drawing party game for iPhone and iPad: word dealing, timer management, and scorekeeping. | Swift · SwiftUI · Observation · AVFoundation | [Case Study](https://ahmetkadircicek.com.tr/projects/chalko) |
+
+---
+
+## 📈 GitHub Statistics & Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ahmetkadircicek&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Ahmet's GitHub Stats" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetkadircicek&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Designed &amp; built by <b>Ahmet Kadir Çiçek</b> • Istanbul, Türkiye</sub>
+</div>
