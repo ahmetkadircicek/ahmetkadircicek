@@ -28,7 +28,7 @@ Crafting apps for HarmonyOS wearables, cross-platform Flutter systems, and nativ
 | **Mobile & Cross-Platform** | `Flutter` `Dart` `WebAssembly (Wasm)` `Riverpod` `Bloc` `Provider` `Dio` `GoRouter` |
 | **Native iOS** | `Swift` `SwiftUI` `SwiftData` `Combine` `UIKit` `XcodeGen` `TestFlight` |
 | **Backend & Cloud** | `Firebase` `Cloud Firestore` `Cloud Storage` `REST APIs` `Stripe` `Cloudflare` |
-| **Design & Tooling** | `Figma` `Git` `GitHub Actions` `Claude / AI-Assisted Dev` `Zsh` |
+| **Design & Tooling** | `Figma` `Git` `GitHub Actions` `AI-Assisted Dev` `Zsh` |
 
 <br/>
 
