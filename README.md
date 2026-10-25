@@ -2,7 +2,7 @@
 
 # Hi, I'm Ahmet Kadir Çiçek 👋
 
-**Mobile & Wearables Developer at [Huawei Türkiye R&D Center](https://www.huawei.com/)**  
+**Mobile & Wearables Developer**  
 Crafting apps for HarmonyOS wearables, cross-platform Flutter systems, and native iOS.
 
 [🌐 Website](https://ahmetkadircicek.com.tr) • [💼 LinkedIn](https://www.linkedin.com/in/akadircicek) • [📄 Curriculum Vitae](https://ahmetkadircicek.com.tr/ahmet-kadir-cicek-cv.pdf) • [✉️ Email](mailto:akadircicek@outlook.com)
@@ -11,7 +11,7 @@ Crafting apps for HarmonyOS wearables, cross-platform Flutter systems, and nativ
 
 ## 🚀 About Me
 
-- ⌚ **HarmonyOS Wearables**: Building smart & lite wearable apps with **ArkTS**, **ArkUI**, and JS/CSS. Engineering integrations for **Huawei Health Service Kit**, **Wear Engine**, and **Location Kit**.
+- ⌚ **HarmonyOS Wearables**: Building smart & lite wearable apps with **ArkTS**, **ArkUI**, and JS/CSS. Engineering integrations for **Health Service Kit**, **Wear Engine**, and **Location Kit**.
 - 📱 **Mobile & Cross-Platform**: Experienced with **Flutter & Dart** (WebAssembly, state management with Riverpod & Bloc, Firebase backend).
 - 🍎 **Native iOS**: Crafting modern iOS applications using **Swift**, **SwiftUI**, **Observation**, and **SwiftData**.
 - 🛠️ **Developer Tooling**: Creator of **[JSON to ArkTS](https://ahmetkadircicek.github.io/json-to-arkts/)**, a browser-based model generator for the global HarmonyOS ecosystem.
