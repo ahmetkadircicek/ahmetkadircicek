@@ -1,6 +1,4 @@
-<div align="center">
-
-![Ahmet Kadir Çiçek Banner](assets/banner.svg)
+<img src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" width="100%" alt="Kermit the Frog typing furiously" />
 
 # Hi, I'm Ahmet Kadir Çiçek 👋
 
@@ -11,13 +9,11 @@ Crafting apps for HarmonyOS wearables, cross-platform Flutter systems, and nativ
 
 ---
 
-</div>
-
 ## 🚀 About Me
 
 - ⌚ **HarmonyOS Wearables**: Building smart & lite wearable apps with **ArkTS**, **ArkUI**, and JS/CSS. Engineering integrations for **Huawei Health Service Kit**, **Wear Engine**, and **Location Kit**.
 - 📱 **Mobile & Cross-Platform**: Experienced with **Flutter & Dart** (WebAssembly, state management with Riverpod & Bloc, Firebase backend).
-- 🍎 **Native iOS**: Crafting modern iOS applications using **Swift**, **SwiftUI**, **Observation**, **SwiftData**, and **CloudKit**.
+- 🍎 **Native iOS**: Crafting modern iOS applications using **Swift**, **SwiftUI**, **Observation**, and **SwiftData**.
 - 🛠️ **Developer Tooling**: Creator of **[JSON to ArkTS](https://ahmetkadircicek.github.io/json-to-arkts/)**, a browser-based model generator for the global HarmonyOS ecosystem.
 
 ---
@@ -30,7 +26,7 @@ Crafting apps for HarmonyOS wearables, cross-platform Flutter systems, and nativ
 |---|---|
 | **Wearables & HarmonyOS** | `ArkTS` `ArkUI` `HarmonyOS NEXT` `OpenHarmony` `DevEco Studio` `Health Kit` `Wear Engine` |
 | **Mobile & Cross-Platform** | `Flutter` `Dart` `WebAssembly (Wasm)` `Riverpod` `Bloc` `Provider` `Dio` `GoRouter` |
-| **Native iOS** | `Swift` `SwiftUI` `SwiftData` `Combine` `UIKit` `CloudKit` `XcodeGen` `TestFlight` |
+| **Native iOS** | `Swift` `SwiftUI` `SwiftData` `Combine` `UIKit` `XcodeGen` `TestFlight` |
 | **Backend & Cloud** | `Firebase` `Cloud Firestore` `Cloud Storage` `REST APIs` `Stripe` `Cloudflare` |
 | **Design & Tooling** | `Figma` `Git` `GitHub Actions` `Claude / AI-Assisted Dev` `Zsh` |
 
@@ -49,23 +45,8 @@ Crafting apps for HarmonyOS wearables, cross-platform Flutter systems, and nativ
 | **[Portfolio](https://github.com/ahmetkadircicek/portfolio)** | Personal website compiled to WebAssembly with bilingual localization and zero-dependency preview rendering. | Flutter · Wasm · Dart · Firebase | [Live Site](https://ahmetkadircicek.com.tr) • [Repo](https://github.com/ahmetkadircicek/portfolio) |
 | **[JSON to ArkTS](https://github.com/ahmetkadircicek/json-to-arkts)** | Free browser-based code generator converting JSON to typed ArkTS classes with `@Observed` / `@ObservedV2` and `fromJson()`. | JavaScript · ArkTS · OpenHarmony | [Web Tool](https://ahmetkadircicek.github.io/json-to-arkts/) • [Repo](https://github.com/ahmetkadircicek/json-to-arkts) |
 | **[Capability Development](https://github.com/ahmetkadircicek/capability-development)** | Engineering playbook & roadmap: polyglot deep dives (Swift, JS, Python), mobile architectures (Flutter, React Native), Git CLI, and 25+ LeetCode solutions. | Polyglot · Mobile · Git · Algorithms | [Repo](https://github.com/ahmetkadircicek/capability-development) |
-| **[Tunes](https://github.com/ahmetkadircicek/tunes)** | AI Song Maker: cross-platform mobile app that generates custom songs, lyrics, and covers using generative AI. | Flutter · Riverpod · Firebase · Replicate | [Case Study](https://ahmetkadircicek.com.tr/projects/tunes) • [Repo](https://github.com/ahmetkadircicek/tunes) |
-| **[Restick](https://github.com/ahmetkadircicek/restick)** | Native iOS app turning any image into WhatsApp stickers at explicit pixel sizes, with CloudKit sync and no watermarks. | Swift · SwiftUI · SwiftData · CloudKit | [Repo](https://github.com/ahmetkadircicek/restick) |
 | **[Vilsa](https://github.com/ahmetkadircicek/vilsa)** | Stock portfolio and dividend tracker with live financials, analytics, and interactive charts. | Flutter · Riverpod · Firebase · REST API | [Case Study](https://ahmetkadircicek.com.tr/projects/vilsa) • [Repo](https://github.com/ahmetkadircicek/vilsa) |
 | **[Peasy](https://github.com/ahmetkadircicek/peasy)** | NFC self-checkout retail app enabling physical product scanning and frictionless mobile payments. | Flutter · NFC Manager · Stripe · Firebase | [Case Study](https://ahmetkadircicek.com.tr/projects/peasy) • [Repo](https://github.com/ahmetkadircicek/peasy) |
-| **[Chalko](https://ahmetkadircicek.com.tr/projects/chalko)** | Turkish drawing party game for iPhone and iPad: word dealing, timer management, and scorekeeping. | Swift · SwiftUI · Observation · AVFoundation | [Case Study](https://ahmetkadircicek.com.tr/projects/chalko) |
-
----
-
-## 📈 GitHub Statistics & Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ahmetkadircicek&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Ahmet's GitHub Stats" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetkadircicek&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-
-</div>
 
 ---
 
