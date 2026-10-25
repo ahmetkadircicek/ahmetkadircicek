@@ -5,7 +5,7 @@
 **Mobile & Wearables Developer**  
 Crafting apps for HarmonyOS wearables, cross-platform Flutter systems, and native iOS.
 
-[🌐 Website](https://ahmetkadircicek.com.tr) • [💼 LinkedIn](https://www.linkedin.com/in/akadircicek) • [📄 Curriculum Vitae](https://ahmetkadircicek.com.tr/ahmet-kadir-cicek-cv.pdf) • [✉️ Email](mailto:akadircicek@outlook.com)
+[🌐 Website](https://ahmetkadircicek.com.tr) • [💼 LinkedIn](https://www.linkedin.com/in/akadircicek) • [📄 CV](https://ahmetkadircicek.com.tr/ahmet-kadir-cicek-cv.pdf) • [✉️ Email](mailto:akadircicek@outlook.com)
 
 ---
 
