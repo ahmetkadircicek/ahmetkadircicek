@@ -1,5 +1,3 @@
-<img src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" width="100%" alt="Kermit the Frog typing furiously" />
-
 ## Ahmet Kadir Çiçek
 
 Mobile developer in Istanbul.<br/>
